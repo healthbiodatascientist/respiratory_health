@@ -1,0 +1,162 @@
+Variable,Category,Yes (%),"Yes
+(95% CI
+lower limit)","Yes
+(95% CI
+upper limit)","No
+(%)","No
+(95% CI
+lower limit)","No
+(95% CI
+upper limit)",Weighted N,Unweighted N
+All,All,12.8,12.2,13.4,87.1,86.5,87.7,4556000,19700
+Scottish Index of Multiple Deprivation - Quintiles,1=Most deprived fifth of households,21.4,19.8,23.1,78.5,76.8,80.1,876000,3500
+Scottish Index of Multiple Deprivation - Quintiles,2,17.3,15.9,18.8,82.6,81.1,84,860000,3800
+Scottish Index of Multiple Deprivation - Quintiles,3,12.4,11.1,13.7,87.6,86.3,88.8,899000,4400
+Scottish Index of Multiple Deprivation - Quintiles,4,8.9,7.7,10,91,89.9,92.2,974000,4400
+Scottish Index of Multiple Deprivation - Quintiles,5=Least deprived fifth of households,5.1,4.2,6.1,94.8,93.9,95.7,947000,3600
+Urban/Rural Classification,Large Urban Area,12.8,11.8,13.8,87.2,86.2,88.2,1739000,6000
+Urban/Rural Classification,Other Urban Area,13.6,12.5,14.6,86.3,85.3,87.3,1526000,6300
+Urban/Rural Classification,Accessible Small Town,13.8,11.6,15.9,86.2,84.1,88.3,371000,1800
+Urban/Rural Classification,Remote Small Town,18.8,14.3,23.2,81.2,76.8,85.7,116000,900
+Urban/Rural Classification,Accessible Rural,10.1,8.6,11.5,89.8,88.3,91.2,541000,2500
+Urban/Rural Classification,Remote Rural,10.3,8.3,12.2,89.6,87.7,91.6,263000,2100
+Local Authority,Aberdeen City,13.7,10.3,17,86.3,83,89.7,189000,600
+Local Authority,Aberdeenshire,12.1,9.4,14.9,87.7,84.9,90.5,215000,800
+Local Authority,Angus,16.1,11.6,20.6,83.9,79.4,88.4,96000,400
+Local Authority,Argyll & Bute,10,7,13,89.6,86.6,92.7,75000,600
+Local Authority,Clackmannanshire,17.3,13,21.6,82.7,78.4,87,43000,400
+Local Authority,Dumfries & Galloway,12.2,9.1,15.2,87.7,84.6,90.8,124000,800
+Local Authority,Dundee City,13.1,9.5,16.7,86.9,83.3,90.5,125000,400
+Local Authority,East Ayrshire,17.9,13.5,22.4,82.1,77.6,86.5,100000,500
+Local Authority,East Dunbartonshire,8.9,4.1,13.7,91.1,86.3,95.9,90000,400
+Local Authority,East Lothian,8.7,5.8,11.6,91.3,88.4,94.2,92000,500
+Local Authority,East Renfrewshire,5.9,3,8.7,94.1,91.3,97,78000,400
+Local Authority,"Edinburgh, City of",11.7,9.8,13.7,88.2,86.2,90.1,440000,1500
+Local Authority,Falkirk,13.7,10.3,17.1,85.9,82.5,89.4,131000,500
+Local Authority,Fife,11.8,9.5,14.1,88.1,85.8,90.4,310000,1000
+Local Authority,Glasgow City,14.3,12.3,16.3,85.7,83.7,87.7,527000,1600
+Local Authority,Highland,12.9,10,15.8,87,84.1,89.9,198000,800
+Local Authority,Inverclyde,11.8,8.1,15.5,88.2,84.5,91.9,66000,400
+Local Authority,Midlothian,13.9,9.8,18.1,85.9,81.7,90,79000,400
+Local Authority,Moray,19.4,13.6,25.2,80.6,74.8,86.4,79000,400
+Local Authority,Na h-Eileanan Siar,16,12,20.1,84,79.9,88,22000,500
+Local Authority,North Ayrshire,10.7,7.9,13.4,88.9,86,91.7,112000,500
+Local Authority,North Lanarkshire,16.3,13.6,18.9,83.4,80.8,86.1,281000,900
+Local Authority,Orkney Islands,10.6,7.3,13.9,89.4,86.1,92.7,19000,500
+Local Authority,Perth & Kinross,12.7,9.3,16.1,87.3,83.9,90.7,127000,500
+Local Authority,Renfrewshire,10.3,7.6,12.9,89.7,87.1,92.4,155000,700
+Local Authority,Scottish Borders,10.5,7.6,13.4,89.5,86.6,92.4,99000,500
+Local Authority,Shetland Islands,10.4,7,13.8,89.6,86.2,93,19000,500
+Local Authority,South Ayrshire,12.7,8.6,16.7,87.3,83.3,91.4,95000,400
+Local Authority,South Lanarkshire,12.1,9.7,14.5,87.8,85.4,90.2,272000,900
+Local Authority,Stirling,10.1,7,13.2,89.9,86.8,93,78000,500
+Local Authority,West Dunbartonshire,12.6,9.1,16.1,87.4,83.9,90.9,73000,500
+Local Authority,West Lothian,13.8,9.9,17.6,86.2,82.4,90.1,148000,500
+Health Board,Ayrshire & Arran,13.6,11.5,15.7,86.2,84.1,88.3,307000,1400
+Health Board,Borders,10.5,7.6,13.4,89.5,86.6,92.4,99000,500
+Health Board,Dumfries and Galloway,12.2,9.1,15.2,87.7,84.6,90.7,124000,800
+Health Board,Fife,11.8,9.5,14.1,88.1,85.8,90.4,310000,1000
+Health Board,Forth Valley,13.2,11.1,15.4,86.6,84.5,88.8,252000,1400
+Health Board,Grampian,13.9,11.9,15.9,86,84,88,483000,1900
+Health Board,Greater Glasgow & Clyde,12.2,10.9,13.5,87.8,86.5,89.1,988000,3900
+Health Board,Highland,12.1,9.8,14.3,87.7,85.5,90,274000,1400
+Health Board,Lanarkshire,14.2,12.4,16,85.6,83.8,87.4,553000,1700
+Health Board,Lothian,12,10.5,13.5,87.9,86.4,89.4,759000,2800
+Health Board,Orkney,10.6,7.3,13.9,89.4,86.1,92.7,19000,500
+Health Board,Shetland,10.4,7,13.8,89.6,86.2,93,19000,500
+Health Board,Tayside,13.8,11.6,16,86.2,84,88.4,348000,1300
+Health Board,Western Isles,16,12,20.1,84,79.9,88,22000,500
+Household Type,"Single adult
+[note 1]",24.2,22.5,26,75.4,73.6,77.2,564000,3100
+Household Type,"Small adult
+[note 2]",12.5,11.1,13.9,87.5,86.1,88.9,891000,2900
+Household Type,"Large adult
+[note 3]",9.9,8.1,11.8,90,88.2,91.8,674000,1600
+Household Type,"Single parent
+[note 4]",22.3,18.8,25.8,77.7,74.2,81.2,132000,700
+Household Type,"Small family
+[note 5]",9.5,8.1,11,90.4,88.9,91.9,642000,2200
+Household Type,"Large family
+[note 6]",11.6,9.1,14.1,88.4,85.8,90.9,338000,1000
+Household Type,"Single pensioner
+[note 7]",14,12.8,15.3,85.9,84.7,87.2,466000,3800
+Household Type,"Older couple
+[note 8]",8.6,7.5,9.7,91.3,90.2,92.4,850000,4400
+Detailed Tenure,Owned outright,7.9,7.1,8.7,92.1,91.3,92.8,1604000,8300
+Detailed Tenure,Mortgaged,7.5,6.6,8.4,92.4,91.6,93.3,1451000,5100
+Detailed Tenure,Social rented,28.6,26.9,30.3,71.4,69.6,73.1,884000,4100
+Detailed Tenure,Private rented,15.7,13.8,17.5,84.3,82.5,86.2,607000,2200
+Car Access,1 car,11.9,11,12.7,88,87.2,88.9,1877000,8800
+Car Access,2 cars,7.6,6.7,8.6,92.3,91.3,93.2,1299000,4800
+Car Access,3 or more cars,6.8,5,8.6,93.2,91.4,95,409000,1300
+Car Access,No car,24.1,22.5,25.7,75.9,74.3,77.4,970000,4700
+Country of Birth,"Scotland
+[note 9]",13.6,12.9,14.3,86.4,85.7,87.1,3410000,15100
+Country of Birth,"Rest of UK
+[note 10]",8.8,7.5,10.1,91.1,89.8,92.4,562000,2600
+Country of Birth,"EU27
+[note 11]",18.8,15.5,22.2,81.2,77.8,84.5,221000,800
+Country of Birth,"Rest of World
+[note 12]",8.2,6.3,10,91.6,89.7,93.5,360000,1200
+Ethnic Group,White: Scottish,13.7,13,14.4,86.2,85.5,86.9,3340000,14700
+Ethnic Group,White: Other British,8.6,7.3,9.8,91.4,90.1,92.6,588000,2800
+Ethnic Group,White: Polish,20.8,14.4,27.3,79.2,72.7,85.6,61000,200
+Ethnic Group,"White: Other
+[note 13]",14.7,12,17.5,85.3,82.5,88,260000,900
+Ethnic Group,"Asian
+[note 14]",7.8,4.8,10.8,91.8,88.7,94.9,176000,500
+Ethnic Group,"All other ethnic groups
+[note 15]",8,4.4,11.6,92,88.4,95.6,125000,400
+Religion,None,13.8,13,14.6,86.1,85.3,86.9,2666000,10900
+Religion,Church of Scotland,10.1,9,11.2,89.9,88.7,91,862000,4500
+Religion,Roman Catholic,14.6,12.8,16.4,85.4,83.6,87.2,547000,2200
+Religion,Other Christian,9,7.1,11,91,89,92.9,285000,1400
+Religion,Muslim,9.9,5.6,14.3,90.1,85.7,94.4,89000,200
+Religion,"Other
+[note 16]",12.6,8.2,16.9,87.2,82.8,91.6,96000,400
+Sexual Orientation,Heterosexual,12.2,11.6,12.8,87.7,87.1,88.4,4033000,17000
+Sexual Orientation,"LGB+
+[note 17]",16.5,12.6,20.4,83.4,79.5,87.2,155000,500
+Respondent Age and Sex,Female 16-24,10.1,7.3,13,89.6,86.8,92.5,235000,600
+Respondent Age and Sex,Female 25-34,11.9,9.9,13.9,88,86,90.1,410000,1400
+Respondent Age and Sex,Female 35-44,10.7,8.9,12.4,89.2,87.4,90.9,352000,1500
+Respondent Age and Sex,Female 45-54,13.8,11.8,15.9,86,84,88.1,368000,1400
+Respondent Age and Sex,Female 55-64,14.8,13,16.7,85.2,83.3,87,403000,2000
+Respondent Age and Sex,Female 65-74,11.8,10.2,13.4,88.2,86.5,89.8,312000,2100
+Respondent Age and Sex,Female 75+,6.2,4.9,7.5,93.8,92.5,95.1,286000,1900
+Respondent Age and Sex,Male 16-24,13.3,9.9,16.7,86.7,83.3,90.1,253000,500
+Respondent Age and Sex,Male 25-34,16.1,13.6,18.6,83.9,81.4,86.4,379000,1100
+Respondent Age and Sex,Male 35-44,15.2,12.9,17.4,84.8,82.6,87.1,333000,1200
+Respondent Age and Sex,Male 45-54,16.1,13.7,18.4,83.8,81.5,86.2,346000,1200
+Respondent Age and Sex,Male 55-64,14.1,12.2,16.1,85.5,83.5,87.5,380000,1700
+Respondent Age and Sex,Male 65-74,14.1,12.1,16.2,85.7,83.7,87.8,287000,1700
+Respondent Age and Sex,Male 75+,6.1,4.7,7.5,93.9,92.5,95.3,212000,1300
+Respondent Age Group,16-24,11.8,9.5,14,88.1,85.9,90.4,488000,1100
+Respondent Age Group,25-34,13.9,12.3,15.5,86.1,84.4,87.7,788000,2500
+Respondent Age Group,35-44,12.9,11.4,14.3,87.1,85.6,88.5,685000,2700
+Respondent Age Group,45-54,14.9,13.4,16.5,85,83.4,86.5,715000,2700
+Respondent Age Group,55-64,14.5,13.1,15.8,85.3,84,86.7,782000,3600
+Respondent Age Group,65-74,12.9,11.6,14.3,87,85.7,88.4,599000,3800
+Respondent Age Group,75+,6.2,5.2,7.1,93.8,92.9,94.8,498000,3200
+Marital Status,Never married - single,17.5,16.3,18.7,82.4,81.2,83.5,1657000,6200
+Marital Status,Married/Civil partnership,7.9,7.2,8.6,92,91.3,92.8,2155000,8600
+Marital Status,Separated,20.1,16,24.3,79.9,75.7,84,91000,500
+Marital Status,Divorced/Dissolved civil partnership,20.3,18.3,22.4,79.7,77.6,81.7,340000,2100
+Marital Status,Widowed/Bereaved civil partner,11.4,9.9,12.9,88.6,87.1,90.1,312000,2300
+Highest Qualification Held,Level 1 (SVQ level 1 or 2),20.3,18.8,21.9,79.6,78,81.2,850000,3700
+Highest Qualification Held,Level 2 (SVQ Level 3),11.9,10.4,13.4,88.1,86.5,89.6,736000,2900
+Highest Qualification Held,Level 3 (SVQ Level 4),12.6,10.9,14.2,87.4,85.8,89.1,564000,2300
+Highest Qualification Held,Level 4 (Above SVQ Level 4),6.1,5.4,6.8,93.8,93.1,94.5,1679000,6900
+Highest Qualification Held,Other qualification,14.4,11.9,16.8,85.6,83.2,88.1,204000,1100
+Highest Qualification Held,No qualifications,23.1,21.1,25.2,76.7,74.6,78.8,498000,2600
+Respondent Economic Activity,Inactive,14.9,14,15.8,85,84,85.9,1797000,9500
+Respondent Economic Activity,In employment,11.1,10.4,11.9,88.8,88.1,89.6,2694000,10000
+Respondent Economic Activity,Unemployed,23.8,16.8,30.8,76.2,69.2,83.2,64000,200
+Veterans,"No
+[note 18]",12.3,11.7,12.9,87.7,87.1,88.3,4057000,16800
+Veterans,"Yes
+[note 19]",15.8,12.5,19.1,83.8,80.5,87.1,159000,800
+Limiting Long-term Physical or Mental Health Condition,No limiting condition,10.2,9.5,10.8,89.7,89.1,90.4,3280000,13100
+Limiting Long-term Physical or Mental Health Condition,Limiting condition,19.6,18.3,20.8,80.4,79.2,81.7,1276000,6600
+Provides unpaid care,No care,12.5,11.9,13.2,87.4,86.7,88,3803000,16600
+Provides unpaid care,Provides care,14.2,12.6,15.8,85.8,84.2,87.4,752000,3100
