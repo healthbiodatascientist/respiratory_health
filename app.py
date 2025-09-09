@@ -9,7 +9,6 @@
 import pandas as pd
 from dash import Dash, html, dash_table
 import dash_bootstrap_components as dbc
-import geopandas as gpd
 
 
 # Import data and create tables
